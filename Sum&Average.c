@@ -1,3 +1,5 @@
+// Write a C program to read the marks of mathematics subject for test1,test2,test3 and calculate the sum and average of the marks obtained 
+
 #include <stdio.h>
 
 void main() {
