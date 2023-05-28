@@ -1,3 +1,5 @@
+// Write a C program to perform multiplication of 2 float values
+
 #include <stdio.h>
 
 void main() 
