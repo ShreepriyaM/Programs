@@ -1,3 +1,5 @@
+// Write a C program to create an integer array of 10 elements and sort it
+
 #include <stdio.h>
 
 void bubbleSort(int arr[], int size) {
