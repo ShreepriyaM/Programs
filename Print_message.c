@@ -1,3 +1,5 @@
+// Write a C program to print the message hello if the number is divisible by 2 and print the message world if the number is divisible by 3, print the message hello world if the number is divisible by both 2 and 3 
+
 #include <stdio.h>
 
 void main() 
