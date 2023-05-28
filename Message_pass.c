@@ -1,3 +1,5 @@
+// Write a C program to generate numbers divisible by 2 and divisible by 3, if the number is divisible by both 2 and 3 print the message pass
+
 #include <stdio.h>
 
 void main() 
