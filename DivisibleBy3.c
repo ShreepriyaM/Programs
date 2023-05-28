@@ -1,3 +1,5 @@
+// Write a C program to check if a number divisible 3 or not 
+
 #include <stdio.h>
 
 void main() 
