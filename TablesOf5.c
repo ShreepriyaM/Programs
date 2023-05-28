@@ -1,3 +1,5 @@
+// Write a C program to print tables of 5
+
 #include <stdio.h>
 
 void main() 
