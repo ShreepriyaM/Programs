@@ -1,3 +1,5 @@
+// Write a C program to generate odd numbers without using for loop 
+
 #include <stdio.h>
 
 void main() 
