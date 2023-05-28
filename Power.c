@@ -1,3 +1,5 @@
+//Write a C program to print the power of a number without using math.h 
+
 #include <stdio.h>
 
 void main() 
